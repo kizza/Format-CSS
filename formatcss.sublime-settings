@@ -1,0 +1,4 @@
+{
+	"inline_threshold": 3,     // Keep styles inline until there are this many
+    "inline_wrap_length": 80  // When forced inline, still wrap at here
+}

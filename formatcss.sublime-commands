@@ -1,0 +1,21 @@
+[
+	{
+		"caption": "Format CSS: Normal",
+		"command": "format_css"
+	},
+	{
+		"caption": "Format CSS: Strict",
+		"command": "format_css",
+		"args": {"runtype": "strict"}
+	},
+	{
+		"caption": "Format CSS: Settings - Default",
+		"command": "open_file",
+		"args": {"file": "${packages}/Table of comments/formatcss.sublime-settings"}
+	},
+	{
+		"caption": "Format CSS: Settings - User",
+		"command": "open_file",
+		"args": {"file": "${packages}/User/formatcss.sublime-settings"}
+	}
+]
